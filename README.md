@@ -4,6 +4,8 @@
 [中文](README.zh.md) | [English](README.en.md)
 
 ---
+开发者：刘晨辉
+<p align="left"><img src="author.png" width="100"></p>
 
 `Vscode Codex Ollama` 是一个 VS Code 插件，目标是提供接近 Codex 插件工作流的本地 Agent 体验，但模型调用完全走你本机的 Ollama 服务。
 

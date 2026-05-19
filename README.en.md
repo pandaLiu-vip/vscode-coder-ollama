@@ -3,6 +3,9 @@
 📖 Read in other languages / 阅读其他语言:
 [中文](README.zh.md) | [English](README.en.md)
 
+author：刘晨辉
+<p align="left"><img src="author.png" width="100"></p>
+
 `Vscode Codex Ollama` is a VS Code extension designed to provide a local agent experience close to the Codex extension workflow, while all model calls are routed entirely through your local Ollama service.
 
 It currently supports:
